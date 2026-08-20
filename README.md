@@ -70,8 +70,4 @@ A denormalized view, `vw_LapseRiskSummary`, joins all three tables and serves as
 [![Dashboard 4](https://github.com/sakshigolambade/SBI-Insurance-Policy-Lapse-Renewal-Analytics/raw/main/dashboards/dashboard4.png)](dashboards/dashboard4.png)
 
 **Report pages:** Overview · Claims Analysis · Predictive Risk Scoring · Renewal Trends
-**Features:** custom brand-color theme, synced cross-page slicers, icon-based navigation sidebar, conditional formatting, and written analytical insights on every page.
-
 ---
-
-## 🗂️ Repository Structure
